@@ -1,1 +1,3 @@
-alert("This is a dummy JavaScript file for testing!");
+document.addEventListener("DOMContentLoaded", function() {
+    alert("This alert is from the external JavaScript file!");
+});
