@@ -1,3 +1,2 @@
-document.addEventListener("DOMContentLoaded", function() {
-    alert("This alert is from the external JavaScript file!");
-});
+alert("This alert is from the external JavaScript file!");
+
