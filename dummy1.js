@@ -1,4 +1,4 @@
-fetch('http://localhost:62114/App/OrganizationCostCenters/GetCostCenterList?_search=false&nd=1730200416210&rows=10&page=1&sidx=id&sord=desc', { 
+fetch('https://eztbm-app-dev.azurewebsites.net/App/OrganizationCostCenters/GetCostCenterList?_search=false&nd=1730200416210&rows=10&page=1&sidx=id&sord=desc', { 
   method: 'GET',
   headers: {
     'Content-Type': 'application/json'
